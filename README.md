@@ -1,4 +1,4 @@
-# Hi, I'm Nana 👋
+# Hi, I'm Anny 👋
 
 Frontend Developer | React | Tailwind CSS | JavaScript
 
