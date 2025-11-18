@@ -7,7 +7,7 @@ Frontend Developer | React | Tailwind CSS | JavaScript
 ## 🔭 About Me
 - Passionate about building **modern, responsive web applications**.
 - Focused on **React, TypeScript, Tailwind CSS**, and **clean UI/UX**.
-- I love contributing to **open source** and experimenting with **next-gen frontend tech**.
+- I love experimenting with **next-gen frontend tech**.
 - Always learning and exploring new tools in the frontend ecosystem.
 
 ---
