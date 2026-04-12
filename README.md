@@ -1,6 +1,6 @@
 # Hi, I'm Anny 👋
 
-Frontend Developer | React | Tailwind CSS | JavaScript
+Frontend Developer | React | Next | Tailwind CSS | JavaScript
 
 ---
 
